@@ -1,3 +1,8 @@
+{
+  {
+    /* import * as firebase from "firebase/app"; */
+  }
+}
 import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/firestore";
@@ -5,12 +10,12 @@ import "firebase/storage";
 
 /* cSpell:disable */
 const firebaseConfig = {
-  apiKey: "AIzaSyBhWZGJmoJKaxAcfjD-5myvySxsft5XReo",
-  authDomain: "rn-instagram-clone-37e97.firebaseapp.com",
-  projectId: "rn-instagram-clone-37e97",
-  storageBucket: "rn-instagram-clone-37e97.appspot.com",
-  messagingSenderId: "821568314244",
-  appId: "1:821568314244:web:8624585c38054ad149dbd1",
+  apiKey: "AIzaSyBIAqfTpwjBu9X4iNmtlZblNxgAKvXSKE8",
+  authDomain: "insta-clone-3a18f.firebaseapp.com",
+  projectId: "insta-clone-3a18f",
+  storageBucket: "insta-clone-3a18f.appspot.com",
+  messagingSenderId: "753133418451",
+  appId: "1:753133418451:web:82a5a6f2a4eefae9e12126",
 };
 
 /* cSpell:enable */
